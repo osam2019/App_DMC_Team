@@ -10,7 +10,7 @@
       - 바. 알려진 버그 항목 참조하여 안드로이드 스튜디오에서 빌드 후 실행
    ### 다. 사용법
    
-   [데모 영상(유튜브 링크)](https://www.youtube.com/watch?v=RW5cuFEbI0c)
+    [데모 영상(유튜브 링크)](https://www.youtube.com/watch?v=RW5cuFEbI0c)
    
     |![ex_screenshot](https://github.com/MaliciousJ/Deep-Military-Camera/blob/master/sample_images/%EC%B2%AB%EC%8B%A4%ED%96%89.png)|      ![ex_screenshot](https://github.com/MaliciousJ/Deep-Military-Camera/blob/master/sample_images/%EC%9C%A0%EC%A0%80%EB%AA%A9%EB%A1%9D.png)|![ex_screenshot](https://github.com/MaliciousJ/Deep-Military-Camera/blob/master/sample_images/%EC%B1%84%ED%8C%85%EB%AA%A9%EB%A1%9D.png)|
     |:----------:|:-------------:|:------:|
